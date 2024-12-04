@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RubyRubeeka/static/css/main.58a0c615.css",
+    "main.js": "/RubyRubeeka/static/js/main.a48a36cd.js",
+    "static/media/me.png": "/RubyRubeeka/static/media/me.727245e8e77d96344595.png",
+    "index.html": "/RubyRubeeka/index.html",
+    "main.58a0c615.css.map": "/RubyRubeeka/static/css/main.58a0c615.css.map",
+    "main.a48a36cd.js.map": "/RubyRubeeka/static/js/main.a48a36cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.a48a36cd.js"
+  ]
+}
